@@ -64,7 +64,7 @@ See [Final/Dockerfile](./Final/Dockerfile)
 
 ### Staying up-to-date
 
-Using [Dependabot](https://dependabot.com/), every updated Ruby gem or Node module results in an updated image.
+Using [Dependabot](https://dependabot.com/), every updated Ruby gem  or Node module results in an updated image.
 
 
 ### How to use for your Rails application
