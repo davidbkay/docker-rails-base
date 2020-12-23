@@ -1,5 +1,5 @@
 FROM ruby:2.7.2-alpine
-LABEL maintainer="georg@ledermann.dev"
+LABEL maintainer="dkay@hey.com"
 
 # Add basic packages
 RUN apk add --no-cache \
